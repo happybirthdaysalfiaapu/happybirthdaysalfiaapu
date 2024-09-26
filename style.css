@@ -159,8 +159,8 @@ section .title::after{
 .home{
     display: flex;
     background: url("images/1st.jpg") no-repeat center;
-    height: 100vh;
-    color: rgb(5, 2, 2);
+    height: 900px;
+    color: rgb(255, 255, 255);
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
